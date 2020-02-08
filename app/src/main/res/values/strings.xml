@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Listing</string>
+    <string name="numUnits">Number of Units</string>
+    <string name="sample_size">Sample size</string>
+</resources>
